@@ -1,0 +1,37 @@
+{"AppName":"LibraryFactory","Message":"DEBUG: shit!","Time":"Thu Jul 30 14:05:46 GMT+02:00 2020"}
+{"AppName":"LibraryFactory","Message":"DEBUG: shit!","Time":"Thu Jul 30 14:06:08 GMT+02:00 2020"}
+{"AppName":"LibraryFactory","Message":"DEBUG: shit!","Time":"Thu Jul 30 14:06:09 GMT+02:00 2020"}
+{"AppName":"LibraryFactory","Message":"DEBUG: shit!","Time":"Thu Jul 30 14:06:11 GMT+02:00 2020"}
+{"AppName":"LibraryFactory","Message":"DEBUG: shit!","Time":"Thu Jul 30 14:06:11 GMT+02:00 2020"}
+{"AppName":"LibraryFactory","Message":"DEBUG: shit!","Time":"Thu Jul 30 14:06:12 GMT+02:00 2020"}
+{"AppName":"LibraryFactory","Message":"DEBUG: shit!","Time":"Thu Jul 30 14:06:12 GMT+02:00 2020"}
+{"AppName":"LibraryFactory","Message":"DEBUG: shit!","Time":"Thu Jul 30 14:06:13 GMT+02:00 2020"}
+{"AppName":"LibraryFactory","Message":"DEBUG: shit!","Time":"Thu Jul 30 14:06:13 GMT+02:00 2020"}
+{"AppName":"LibraryFactory","Message":"DEBUG: shit!","Time":"Thu Jul 30 14:06:13 GMT+02:00 2020"}
+{"AppName":"LibraryFactory","Message":"DEBUG: shit!","Time":"Thu Jul 30 14:06:13 GMT+02:00 2020"}
+{"AppName":"LibraryFactory","Message":"DEBUG: shit!","Time":"Thu Jul 30 14:06:13 GMT+02:00 2020"}
+{"AppName":"LibraryFactory","Message":"DEBUG: shit!","Time":"Thu Jul 30 14:06:13 GMT+02:00 2020"}
+{"AppName":"LibraryFactory","Message":"DEBUG: shit!","Time":"Thu Jul 30 18:14:29 GMT+02:00 2020"}
+{"AppName":"LibraryFactory","Message":"DEBUG: shit!","Time":"Thu Jul 30 18:14:37 GMT+02:00 2020"}
+{"AppName":"LibraryFactory","Message":"DEBUG: shit!","Time":"Thu Jul 30 18:14:38 GMT+02:00 2020"}
+{"AppName":"LibraryFactory","Message":"DEBUG: shit!","Time":"Thu Jul 30 18:14:38 GMT+02:00 2020"}
+{"AppName":"LibraryFactory","Message":"DEBUG: shit!","Time":"Thu Jul 30 18:14:38 GMT+02:00 2020"}
+{"AppName":"LibraryFactory","Message":"DEBUG: shit!","Time":"Thu Jul 30 18:14:39 GMT+02:00 2020"}
+{"AppName":"LibraryFactory","Message":"DEBUG: shit!","Time":"Thu Jul 30 18:14:39 GMT+02:00 2020"}
+{"AppName":"LibraryFactory","Message":"DEBUG: shit!","Time":"Thu Jul 30 18:14:39 GMT+02:00 2020"}
+{"AppName":"LibraryFactory","Message":"DEBUG: shit!","Time":"Thu Jul 30 18:14:39 GMT+02:00 2020"}
+{"AppName":"LibraryFactory","Message":"DEBUG: shit!","Time":"Thu Jul 30 18:14:39 GMT+02:00 2020"}
+{"AppName":"LibraryFactory","Message":"DEBUG: shit!","Time":"Thu Jul 30 18:14:40 GMT+02:00 2020"}
+{"AppName":"LibraryFactory","Message":"DEBUG: shit!","Time":"Thu Jul 30 18:14:40 GMT+02:00 2020"}
+{"AppName":"LibraryFactory","Message":"DEBUG: shit!","Time":"Thu Jul 30 18:14:40 GMT+02:00 2020"}
+{"AppName":"LibraryFactory","Message":"DEBUG: shit!","Time":"Thu Jul 30 18:14:40 GMT+02:00 2020"}
+{"AppName":"LibraryFactory","Message":"DEBUG: shit!"}
+{"AppName":"LibraryFactory","Message":"DEBUG: shit!"}
+{"AppName":"LibraryFactory","Message":"DEBUG: shit!"}
+{"AppName":"LibraryFactory","Message":"DEBUG: shit!"}
+{"AppName":"LibraryFactory","Message":"DEBUG: shit!"}
+{"AppName":"LibraryFactory","Message":"DEBUG: shit!"}
+{"AppName":"LibraryFactory","Message":"DEBUG: shit!"}
+{"AppName":"LibraryFactory","Message":"DEBUG: shit!"}
+{"AppName":"LibraryFactory","Message":"DEBUG: shit!"}
+{"AppName":"LibraryFactory","Message":"DEBUG: shit!","Time":"Fri Jul 31 15:04:53 GMT+02:00 2020"}

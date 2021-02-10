@@ -1,0 +1,6 @@
+{"AppName":"LibraryFactory","Message":"DEBUG: shit!"}
+{"AppName":"LibraryFactory","Message":"DEBUG: shit!"}
+{"AppName":"LibraryFactory","Message":"DEBUG: shit!"}
+{"AppName":"LibraryFactory","Message":"DEBUG: shit!"}
+{"AppName":"LibraryFactory","Message":"DEBUG: shit!"}
+{"AppName":"LibraryFactory","Message":"DEBUG: shit!"}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AEkSKxHuHnyk4h8Zvq7l0QLDlAQKmS7eSQ7OgvTtt3mXVPalMDECCNLm3rg3Qa0DRzdUo0AyDGp27WqCuvKm5A==",
+  "success": true,
+  "projectFilePath": "D:\\VS 2019\\LogServer\\LogServer\\LogServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ItsMeAgain\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
